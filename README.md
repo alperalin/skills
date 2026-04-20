@@ -29,8 +29,11 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 |---|---|
 | [idea-refine](idea-refine/) | Fikirleri yapilandirilmis divergent/convergent dusunce ile netlestirir |
 | [spec-driven-development](spec-driven-development/) | Kod yazmadan once 4 asamali gated workflow ile spec olusturur |
+| [to-prd](to-prd/) | Mevcut konusma context'inden interview etmeden PRD uretir, GitHub issue acar |
 | [planning-and-task-breakdown](planning-and-task-breakdown/) | Spec'i sizing'li, checkpoint'li task'lara boler |
+| [to-issues](to-issues/) | Plan veya PRD'yi HITL/AFK ayrimli GitHub issue'lara donusturur |
 | [grill-me](grill-me/) | Plan veya tasarimi amansizca sorgulayarak karar agacini cozer |
+| [domain-model](domain-model/) | Plani domain modeline karsi sorgular, CONTEXT.md ve ADR'lari gunceller |
 
 ### Gelistirme
 
@@ -57,6 +60,8 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 |---|---|
 | [git-guardrails-claude-code](git-guardrails-claude-code/) | Tehlikeli git komutlarini Claude Code hook'lari ile bloklar |
 | [write-a-skill](write-a-skill/) | Yeni skill olusturma rehberi |
+| [caveman](caveman/) | Token kullanimini ~%75 azaltan ultra-kompakt iletisim modu |
+| [zoom-out](zoom-out/) | Kod alanini tanimiyor musun? Modul haritasini cikar |
 
 ## Kaynaklar
 
