@@ -51,6 +51,7 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 |---|---|
 | [code-review-and-quality](code-review-and-quality/) | 5-axis code review (correctness, readability, architecture, security, performance) |
 | [debugging-and-error-recovery](debugging-and-error-recovery/) | Sistematik 6-adim bug triage ve root cause analizi |
+| [diagnose](diagnose/) | 6-fazli disiplinli debug dongusu: feedback loop, hipotez, enstrumantasyon, fix, post-mortem |
 | [triage-issue](triage-issue/) | Bug'i arastirip TDD-tabanli fix plani ile GitHub issue acar |
 | [performance-optimization](performance-optimization/) | Olcum-oncelikli performans optimizasyonu ve Core Web Vitals |
 
