@@ -48,6 +48,8 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | Skill | Aciklama |
 |---|---|
 | [code-review-and-quality](code-review-and-quality/) | 5-axis code review (correctness, readability, architecture, security, performance) |
+| [deep-review](deep-review/) | 5-fazli multi-agent audit pipeline: feature catalog, review swarm, critique, arbitration, final report |
+| [oop-review](oop-review/) | 5 paralel agent ile OOP/mimari review; false positive'leri onleyen pragmatik filtreler |
 | [diagnose](diagnose/) | 6-fazli disiplinli debug dongusu: feedback loop, hipotez, enstrumantasyon, fix, post-mortem |
 | [triage-issue](triage-issue/) | Bug'i arastirip TDD-tabanli fix plani ile GitHub issue acar |
 | [performance-optimization](performance-optimization/) | Olcum-oncelikli performans optimizasyonu ve Core Web Vitals |
@@ -57,6 +59,7 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | Skill | Aciklama |
 |---|---|
 | [git-guardrails-claude-code](git-guardrails-claude-code/) | Tehlikeli git komutlarini Claude Code hook'lari ile bloklar |
+| [extract-skill](extract-skill/) | Konusma context'inden kalici skill dosyasi uretir |
 
 ## Kaynaklar
 
