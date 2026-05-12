@@ -48,8 +48,10 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | Skill | Aciklama |
 |---|---|
 | [code-review-and-quality](code-review-and-quality/) | 5-axis code review (correctness, readability, architecture, security, performance) |
+| [review](review/) | 2-eksenli paralel sub-agent review: Standards (repo kurallari) vs Spec (gereksinim uyumu) |
 | [deep-review](deep-review/) | 5-fazli multi-agent audit pipeline: feature catalog, review swarm, critique, arbitration, final report |
 | [oop-review](oop-review/) | 5 paralel agent ile OOP/mimari review; false positive'leri onleyen pragmatik filtreler |
+| [improve-codebase-architecture](improve-codebase-architecture/) | Mimari friction analizi, shallow/deep modul tespiti, deletion test ile refactor onerileri |
 | [diagnose](diagnose/) | 6-fazli disiplinli debug dongusu: feedback loop, hipotez, enstrumantasyon, fix, post-mortem |
 | [triage-issue](triage-issue/) | Bug'i arastirip TDD-tabanli fix plani ile GitHub issue acar |
 | [performance-optimization](performance-optimization/) | Olcum-oncelikli performans optimizasyonu ve Core Web Vitals |
