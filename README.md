@@ -54,6 +54,7 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | [diagnose](diagnose/) | 6-fazli disiplinli debug dongusu: feedback loop, hipotez, enstrumantasyon, fix, post-mortem |
 | [triage-issue](triage-issue/) | Bug'i arastirip TDD-tabanli fix plani ile GitHub issue acar |
 | [performance-optimization](performance-optimization/) | Olcum-oncelikli performans optimizasyonu ve Core Web Vitals |
+| [verification-before-completion](verification-before-completion/) | Kanit olmadan "bitti" demeyi engelleyen dogrulama zorunlulugu |
 
 ### Araclar
 
@@ -66,6 +67,7 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 
 - [Matt Pocock - skills](https://github.com/mattpocock/skills)
 - [Addy Osmani - agent-skills](https://github.com/addyosmani/agent-skills)
+- [Jesse Vincent - superpowers](https://github.com/obra/superpowers)
 
 ## Lisans
 
