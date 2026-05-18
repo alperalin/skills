@@ -31,8 +31,7 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | [to-prd](to-prd/) | Mevcut konusma context'inden interview etmeden PRD uretir, GitHub issue acar |
 | [planning-and-task-breakdown](planning-and-task-breakdown/) | Spec'i sizing'li, checkpoint'li task'lara boler |
 | [to-issues](to-issues/) | Plan veya PRD'yi HITL/AFK ayrimli GitHub issue'lara donusturur |
-| [grill-me](grill-me/) | Plan veya tasarimi amansizca sorgulayarak karar agacini cozer |
-| [domain-model](domain-model/) | Plani domain modeline karsi sorgular, CONTEXT.md ve ADR'lari gunceller |
+| [grill-me-docs](grill-me-docs/) | Plan/tasarimi amansizca sorgular, domain modeline karsi challenge eder, CONTEXT.md ve ADR'lari gunceller |
 
 ### Gelistirme
 
