@@ -55,6 +55,12 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | [performance-optimization](performance-optimization/) | Olcum-oncelikli performans optimizasyonu ve Core Web Vitals |
 | [verification-before-completion](verification-before-completion/) | Kanit olmadan "bitti" demeyi engelleyen dogrulama zorunlulugu |
 
+### Ogrenme
+
+| Skill | Aciklama |
+|---|---|
+| [teach](teach/) | Stateful ogretim sistemi: mission, lesson, learning record, glossary ve resource pipeline'i ile Zone of Proximal Development tabanli ogrenme |
+
 ### Araclar
 
 | Skill | Aciklama |
