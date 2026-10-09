@@ -103,7 +103,8 @@ Skill dosyalarini (SKILL.md) aracin rules dosyasina veya system prompt'una ekley
 | [git-guardrails-claude-code](git-guardrails-claude-code/) | Tehlikeli git komutlarini Claude Code hook'lari ile bloklar |
 | [extract-skill](extract-skill/) | Konusma context'inden kalici skill dosyasi uretir |
 | [handoff](handoff/) | Konusmayi baska bir agent'in devam edebilecegi handoff dokumanina sikistirir |
-| [writing-great-skills](writing-great-skills/) | Skill yazma/duzenleme icin referans rehber (invocation, information hierarchy, leading words, failure modes) |
+| [writing-for-agents](writing-for-agents/) | Agent'larin okuyacagi dokumanlar (skill, CLAUDE.md/AGENTS.md, referans doc) icin yazim rehberi |
+| [retro](retro/) | Bir coding session'i uzerine retrospektif: agent environment'i icin iyilestirme onerileri |
 
 ## Kaynaklar
 

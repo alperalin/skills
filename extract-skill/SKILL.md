@@ -6,7 +6,7 @@ description: >
   non-trivial development tasks to capture learnings as skills.
 user-invocable: true
 argument-hint: "[skill-name]"
-tools:vscode, execute, read, agent, browser, edit, search, web, todo
+tools: vscode, execute, read, agent, browser, edit, search, web, todo
 ---
 
 # Extract Skill from Context

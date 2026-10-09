@@ -3,7 +3,7 @@ name: deep-review
 description: >
   Deep review on given scope. Multi-phase, multi-agent pipeline for comprehensive analysis. Strict isolation of findings. No batching.
 user-invocable: true
-tools:vscode, execute, read, agent, browser, edit, search, web, todo
+tools: vscode, execute, read, agent, browser, edit, search, web, todo
 ---
 
 > **EXECUTION MODE**: Bu SKILL bir pipeline tanımıdır. Her PHASE sırasıyla çalıştırılacak. Her phase içindeki TASK'lar paralel sub-agent (Task tool) ile çalıştırılacak. Hiçbir phase atlanmayacak, birleştirilmeyecek, basitleştirilmeyecek. Her phase'in çıktısı belirtilen dosyaya persist edilecek. Sonraki phase ancak önceki phase'in çıktı dosyası diske yazıldıktan sonra başlayacak.
